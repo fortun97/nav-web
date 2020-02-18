@@ -1,0 +1,32 @@
+{
+	"dataResult": [{
+		"id": 1,
+		"className": "NAS内",
+		"description": "NAS内",
+		"siteVos": [{
+			"id": 1,
+			"siteName": "管理",
+			"siteUrl": "http://192.168.10.10:5000/",
+			"logoResourceId": "images/Site/nas.ico"
+        },
+        {
+			"id": 2,
+			"siteName": "jellyfin",
+			"siteUrl": "http://192.168.10.10:8096/web/index.html",
+			"logoResourceId": "images/Site/jellyfin.png"
+        },
+        {
+			"id": 3,
+			"siteName": "照片",
+			"siteUrl": "http://192.168.10.10/photo/",
+			"logoResourceId": "images/Site/nas_photo.ico"
+        },
+        {
+			"id": 4,
+			"siteName": "玩物下载",
+			"siteUrl": "http://192.168.10.10:8283/owdl/index.html",
+			"logoResourceId": "images/Site/nas_download.png"
+        }]
+    }
+    ]
+}

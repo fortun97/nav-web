@@ -1,0 +1,23 @@
+{
+	"dataResult": [{
+		"id": 1,
+		"className": "视频",
+		"description": "视频",
+		"siteVos": [{
+			"id": 1,
+			"siteName": "Youtube",
+			"siteUrl": "https://www.youtube.com/",
+			"logoResourceId": "images/Site/youtube.png"
+        }]
+    },{
+		"id": 1,
+		"className": "翻墙",
+		"description": "翻墙",
+		"siteVos": [{
+			"id": 1,
+			"siteName": "YoYu",
+			"siteUrl": "https://www.yoyutrans.com/",
+			"logoResourceId": "images/Site/yoyu.png"
+        }]
+    }]
+}

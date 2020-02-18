@@ -1,0 +1,18 @@
+{
+	"innerClasses": [{
+			"id": "1",
+			"className": "常用"
+		},
+		{
+			"id": "2",
+			"className": "内网"
+		}
+
+	],
+	
+	"outerClasses": [{
+			"id": "20",
+			"className": "常用"
+		}
+	]
+}
