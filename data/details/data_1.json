@@ -11,7 +11,7 @@
 			"logoResourceId": "images/Site/jellyfin.png"
 		},{
 			"id": 2,
-			"siteName": "NAS??",
+			"siteName": "NAS管理",
 			"siteUrl": "http://luckytdx.com:9173/",
 			"logoResourceId": "images/Site/nas.ico"
         }
