@@ -9,7 +9,13 @@
 			"siteName": "jellyfin",
 			"siteUrl": "http://luckytdx.com:9183/",
 			"logoResourceId": "images/Site/jellyfin.png"
-        }]
+		},{
+			"id": 2,
+			"siteName": "NAS??",
+			"siteUrl": "http://luckytdx.com:9173/",
+			"logoResourceId": "images/Site/nas.ico"
+        }
+		]
 	},
 	{
 		"id": 1,
